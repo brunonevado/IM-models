@@ -1,5 +1,5 @@
 """
-2D IM models
+2D IM models used in Nevado et al. 2018
 
 """
 
