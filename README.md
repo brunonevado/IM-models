@@ -1,4 +1,4 @@
-IM models used in Nevado et al. (submitted) Pleistocene glacial cycles drive isolation, gene flow and speciation in the high elevation Andes
+IM models used in Nevado et al. (2018) Pleistocene glacial cycles drive isolation, gene flow and speciation in the high elevation Andes. New Phytologist, accepted.
 
 Some models were newly implemented, while others were previously published in
 
